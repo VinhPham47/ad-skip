@@ -11,7 +11,7 @@
    },
    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArRpv34iFdxIIWL/6c80pYiOpFWoI7uyCaPHeUXCBm4V0zdVfoStRbqmrrrzYLWXAs450uufP8ArSDHSMaNlmAT4wxUiQALl30PVITpYYGMiIibgG1FsQouFMwLFmliMLPQirdgh23zeWT/5G0WddhR0pocFgQ8m+4tuMT+4bYrFhSrABlrztEjlZne7RjItyVdUT1mE8kzBwYMaryH8bb4n/yfnzzxUMAlqb3ag7mM1MouhZw3fwgxFVGzYz2rMMqw6oNN753jH+PInyPQLMKnpL1Y+ECtBFUjrOyT2aSMpFsYrA6oID/F89ylrV1+NC4wgYrAteQZt5JNBzIVOtyQIDAQAB",
    "manifest_version": 2,
-   "name": "Auto Skip Youtube Ads",
+   "name": "Auto Skip Ads By VP47",
    "permissions": [ "activeTab" ],
    "short_name": "Auto Skip Youtube Ads",
    "update_url": "https://clients2.google.com/service/update2/crx",
