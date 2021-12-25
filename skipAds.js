@@ -1,4 +1,4 @@
-const bannerMSG = "Ad has been removed by Extension - Auto Skip Youtube Ads 🤓";
+const bannerMSG = "Ad has been removed by Extension - Auto Skip Youtube Ads VP47 🤓";
 const msgColor = "#4CAF50";
 
 (function () {
