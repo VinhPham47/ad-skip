@@ -1,6 +1,6 @@
-# Skip Youtube Ads
+# Skip Ads
 
-Auto skip Youtube ads
+
 
 ## Built With
 * [Chrome extension]
