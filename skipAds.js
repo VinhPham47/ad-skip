@@ -1,4 +1,4 @@
-const bannerMSG = "Ad has been removed by VP47 💖";
+const bannerMSG = "Ad has been  by VP47 💖";
 const msgColor = "#4CAF50";
 
 (function () {
